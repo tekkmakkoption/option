@@ -1,5 +1,4 @@
-# option
-
+```
 # 参考
 ## VSCodeとGithubを連携してできること
 https://breezegroup.co.jp/202102/vscode-github-windows/
@@ -60,3 +59,4 @@ git reset ハッシュ
 git stash save		# 現在の変更を一時的に退避する
 git stash list		# 退避したスタッシュの一覧を表示する
 git stash pop			# 退避していたスタッシュを元に戻す
+```
